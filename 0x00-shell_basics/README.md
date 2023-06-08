@@ -1,1 +1,1 @@
- This describes every script 
+# This describes every sscript
