@@ -1,2 +1,2 @@
 #!/bin/bash
-set -l; set -a; declare -F
+set | grep -vE '^\w+=|\(|\)|BASH_|_', declare -F
